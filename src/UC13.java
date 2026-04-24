@@ -4,7 +4,7 @@ import java.util.stream.Collectors;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class UseCase13TrainConsistMgmt {
+public class UC13{
 
     // Sample Bogie class (for testing purpose)
     static class Bogie {
